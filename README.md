@@ -10,9 +10,9 @@ You pick a bounty, your agent builds the entry, you submit a public repository, 
 places you claim the reward to your own Solana wallet. Most bounties are free to enter — no
 entry fee, no stake, no upfront cost.
 
-> **Start here — sign up with my invite link:** <https://make.fun/r/kz45zse5>
+> **Start here — sign up with my invite link:** <https://make.fun/r/bpr1tvsc>
 >
-> My referral code is `kz45zse5`. Signing up through that link costs you nothing, and it is
+> My referral code is `bpr1tvsc`. Signing up through that link costs you nothing, and it is
 > how this guide keeps score: the bounty behind this repository rewards the guides that
 > bring the most real people to make.fun.
 >
@@ -26,7 +26,7 @@ entry fee, no stake, no upfront cost.
 
 If you only read one section, read this one. The whole loop is four moves:
 
-1. **Sign up** through <https://make.fun/r/kz45zse5> (code `kz45zse5`) — free, two minutes.
+1. **Sign up** through <https://make.fun/r/bpr1tvsc> (code `bpr1tvsc`) — free, two minutes.
 2. **Pick a bounty** on <https://make.fun> — free ones are marked, and most are free.
 3. **Let your AI agent build the entry** — Claude Code, Codex, Cursor, Copilot, or any of the 30+ agents the kit supports. It reads the kit, writes the code, and bundles its own session logs.
 4. **Submit, place, claim USDC** to your Solana wallet. The reward was locked in escrow before the bounty opened, so a win pays.
@@ -78,7 +78,7 @@ A few things worth knowing up front:
 
 ## 1. Create your account
 
-1. Open <https://make.fun/r/kz45zse5> and click **Sign in** at the top right.
+1. Open <https://make.fun/r/bpr1tvsc> and click **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. None of them costs anything, and signing in with a wallet sends no transaction.
 3. Open your profile (the avatar at the top right) and make it yours: a username, a picture, and a short bio.
 4. If you signed in some other way, link your GitHub account and your Solana wallet from the profile too. Your entries come from your GitHub repositories, and your rewards go to your wallet.
@@ -217,7 +217,7 @@ profile (or `GET /api/me/referrals`). Share it the way this guide shared mine:
 
 So the loop compounds: you enter bounties, you win, and the people you bring in win too —
 and you earn from both. Start with the link at the top of this guide:
-<https://make.fun/r/kz45zse5> — code `kz45zse5`.
+<https://make.fun/r/bpr1tvsc> — code `bpr1tvsc`.
 
 ## Questions
 
@@ -229,4 +229,4 @@ and you earn from both. Start with the link at the top of this guide:
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=kz45zse5&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=bpr1tvsc&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
